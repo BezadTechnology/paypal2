@@ -1,1 +1,1 @@
-The software is ready for deployment
+this application is ready for deployment
