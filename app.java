@@ -1,2 +1,2 @@
 autocad
-studiomax
+studio max
